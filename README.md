@@ -5,5 +5,4 @@
 
 -- Cleaned data
 
-
 -- Usage of Python, Jupyter Notebook and Tableau
